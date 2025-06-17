@@ -1,0 +1,2 @@
+需要安裝的軟體:
+1.SQLite:到https://sqlite.org/下載最新版本
