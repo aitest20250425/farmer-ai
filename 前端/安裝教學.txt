@@ -1,0 +1,4 @@
+安裝教學影片:     https://www.youtube.com/watch?v=4hquABEGRqM
+
+照著影片做到開啟新專案以後，點選左上的Project將其右側顯示的英文從Project調成Project files
+可以看到該檔案的資料夾位置，點開內部的app，github前端的檔案丟進去並覆蓋原始檔案
