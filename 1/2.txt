@@ -1,0 +1,8 @@
+pip install torch torchvision numpy matplotlib scikit-learn
+pip install seaborn matplotlib torchvision scikit-learn
+請在終端機執行
+
+這個1.py檔案，請把裡面的區塊一個一個的複製到自己創的.ipynb檔案(因為上傳限制，所以我沒辦法直接傳送我的ipynb檔案)
+
+執行完後，會得到一個pth檔案，裡面是訓練完成後 ResNet50 模型的參數（權重），不包含模型結構本身。
+把這個.pth檔放在我們的API後端，方便之後在手機上操作時，透過回傳去做辨識，然後回傳結果。
